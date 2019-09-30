@@ -1,2 +1,1 @@
-# alceanicu.github.com
-Nicu's Homepage
+# [alceanicu.github.io](https://alceanicu.github.io/)
